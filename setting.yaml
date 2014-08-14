@@ -12,4 +12,4 @@ application:
   name: vrep_mrpt_mapper_test
   nameservers:
   - localhost:2809
-  system: system/DefaultSystem.xml
+  system: DefaultSystem.xml
