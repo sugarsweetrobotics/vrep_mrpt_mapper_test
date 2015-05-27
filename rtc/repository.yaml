@@ -1,5 +1,3 @@
-MapperViewer: {description: '', git: 'https://github.com/sugarsweetrobotics/MapperViewer.git',
-  hash: a34ebff9554c632407623c6066a88c5acd5bf5c2}
 Mapper_MRPT: {description: '', git: 'https://github.com/sugarsweetrobotics/Mapper_MRPT.git',
   hash: 23b4fd51e93b290a7c9aaa12daf74452534159a5}
 MobileRobotKinematics: {description: '', git: 'https://github.com/sugarsweetrobotics/MobileRobotKinematics.git',
