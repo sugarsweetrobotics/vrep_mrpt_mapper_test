@@ -17,10 +17,10 @@
         <rts:ConfigurationSets rts:id="default">
             <rts:ConfigurationData rts:data="localhost/VREPRTC0.rtc" rts:name="simulation_end_rtcpath"/>
             <rts:ConfigurationData rts:data="{Hokuyo_URG_04LX_UG01: ''}" rts:name="ranges"/>
-            <rts:ConfigurationData rts:data="[]" rts:name="rtsystem"/>
+            <rts:ConfigurationData rts:data="system/navSystem.xml" rts:name="rtsystem"/>
             <rts:ConfigurationData rts:data="[]" rts:name="sync_rtcs"/>
             <rts:ConfigurationData rts:data="0" rts:name="simulation_times"/>
-            <rts:ConfigurationData rts:data="{kinect_visionSensor: ''}" rts:name="cameras"/>
+            <rts:ConfigurationData rts:data="{}" rts:name="cameras"/>
             <rts:ConfigurationData rts:data="{Pioneer_p3dx: ''}" rts:name="robots"/>
             <rts:ConfigurationData rts:data="rtcdeactivated" rts:name="simulation_end_condition"/>
             <rts:ConfigurationData rts:data="URG_TEST.ttt" rts:name="project"/>
